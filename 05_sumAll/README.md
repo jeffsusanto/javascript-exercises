@@ -5,6 +5,8 @@ Implement a function that takes 2 integers and returns the sum of every number b
 ```javascript
 sumAll(1, 4) // returns the sum of 1 + 2 + 3 + 4 which is 10
 ```
+cd D:\git\javascript-exercises\05_sumAll
+npm test sumAll.spec.js
 
 
 ## Hints

@@ -7,6 +7,8 @@ removeFromArray([1, 2, 3, 4], 3); // should remove 3 and return [1,2,4]
 ```
 
 ## Hints
+cd D:\git\javascript-exercises\04_removeFromArray
+npm test removeFromArray.spec.js
 
 The first test on this one is fairly easy, but there are a few things to think about(or google) here for the later tests:
 

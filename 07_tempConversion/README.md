@@ -1,4 +1,6 @@
 # Exercise 07 - tempConversion
+cd D:\git\javascript-exercises\07_tempConversion
+npm test tempConversion.spec.js
 
 Write two functions that convert temperatures from Fahrenheit to Celsius, and vice versa:
 ```
