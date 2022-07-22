@@ -14,8 +14,10 @@ const sum = function(array) {
 	return sum;
 };
 
-const multiply = function() {
-
+const multiply = function(array) {
+  return array.length
+    ? array.reduce((accumulator, nextItem) => accumulator * nextItem)
+    : 0;
 };
 
 const power = function() {
